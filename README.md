@@ -1,6 +1,6 @@
 ### 👋 I'm Zephyr
 
-- 🧑🏻‍💻 Undergraduate CS student at University of Minnesota, Twin Cities.
+- 🧑🏻‍💻 Undergraduate CS student.
 - 🌱 I'm learning Fullstack Development and AI Engineering.
 - ✨ Passionate about developing applications that merge purpose with aesthetics.
 - 🌐 My Portfolio: [zephyrlin.me](https://zephyrlin.me).
