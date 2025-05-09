@@ -2,7 +2,6 @@
 
 - 🧑🏻‍💻 Undergraduate CS student.
 - ☀️ Fullstack Development and AI Engineering.
-- ✨ Passionate about developing applications that merge purpose with aesthetics.
 - 🌐 [My Portfolio](https://zephyrlin.me).
 
 ### 🌟 Most Used Languages
